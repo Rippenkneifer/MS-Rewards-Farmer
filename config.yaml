@@ -1,0 +1,7 @@
+# config.yaml
+apprise:
+  summary: NEVER
+retries:
+  base_delay_in_seconds: 1 # base_delay_in_seconds * 2^max = 14.0625 * 2^6 = 900 = 15 minutes
+  max: 1
+  strategy: EXPONENTIAL
