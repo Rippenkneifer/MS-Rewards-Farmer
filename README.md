@@ -1,10 +1,11 @@
 idk what ive smoked but well this came out
 head will spawn near mars or jupiter
 
-Browser.py - Configure that 
+src/Browser.py - Configure that 
 
 
-my confs:   L:170   ['de-DE', 'de']})
+my confs:   L:134   --window-position=10000,100")  
+            L:170   ['de-DE', 'de']})
             L:171   'de-DE'});
             L:206   "latitude": 51.7700,
             L:207   "longitude": 12.990, 
