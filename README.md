@@ -1,4 +1,5 @@
 idk what ive smoked but well this came out
+head will spawn near mars or jupiter
 
 Browser.py - Configure that 
 
