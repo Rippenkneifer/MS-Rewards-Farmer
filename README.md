@@ -1,9 +1,10 @@
 idk what ive smoked but well this came out
+
+no searches, just the first stuff
 head will spawn near mars or jupiter
 
+
 src/Browser.py - Configure that 
-
-
 my confs:   L:134   --window-position=10000,100")  
             L:170   ['de-DE', 'de']})
             L:171   'de-DE'});
