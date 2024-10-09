@@ -2,7 +2,7 @@ idk what ive smoked but well this came out
 
 no searches, just the first stuff
 head will spawn near mars or jupiter
-
+no proxies allowed
 
 src/Browser.py - Configure that 
 my confs:   L:134   --window-position=10000,100")  
